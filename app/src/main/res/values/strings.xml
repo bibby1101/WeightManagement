@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">FatMan</string>
-    <string name="weight_title">Weight</string>
+    <string name="app_name">紀錄一下體重</string>
+    <string name="weight_title">請輸入您目前體重</string>
 </resources>
